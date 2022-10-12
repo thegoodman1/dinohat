@@ -1,5 +1,5 @@
 # dinohat
-a dino hat. TBH i did not spend the much time on this
+a dino hat. TBH i did not spend the much time on this, so it looks kinda bad lol.
  <html>
 <img
   src="Screenshot 2022-10-11 211526.png"
